@@ -1,0 +1,6 @@
+.Thumbnail-list{
+    padding: 0;
+    width : 60%;
+    display: flex;
+    flex-wrap: wrap;
+}
